@@ -30,7 +30,7 @@ export function ContactSection() {
     setIsSubmitting(true);
 
     try {
-      const response = await fetch('http://localhost:3001/api/send-email', {
+      const response = await fetch('https://aeronova.netlify.app/api/send-email', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
