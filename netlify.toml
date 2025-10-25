@@ -1,0 +1,6 @@
+[build]
+  command = "cd frontend && yarn install && yarn build"
+  publish = "frontend/dist"
+
+[functions]
+  directory = "netlify/functions"
