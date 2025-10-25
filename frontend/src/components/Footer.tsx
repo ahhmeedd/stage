@@ -51,9 +51,9 @@ export function Footer({ onNavigate }: FooterProps) {
   ];
 
   const socialLinks = [
-    { icon: Facebook, href: '#', label: 'Facebook' },
+    { icon: Facebook, href: 'https://www.facebook.com/Aeronovaengineering/', label: 'Facebook' },
     { icon: Twitter, href: '#', label: 'Twitter' },
-    { icon: Linkedin, href: '#', label: 'LinkedIn' },
+    { icon: Linkedin, href: 'http://www.linkedin.com/in/faycelhdia', label: 'LinkedIn' },
     { icon: Instagram, href: '#', label: 'Instagram' }
   ];
 
@@ -148,7 +148,7 @@ export function Footer({ onNavigate }: FooterProps) {
           {/* Copyright */}
           <div className="text-center lg:text-right">
             <p className="text-sm text-primary-foreground/80 mb-2">
-              © 2024 AeroNova Engineering. Tous droits réservés.
+              © 2026 AeroNova Engineering. Tous droits réservés.
             </p>
             <div className="flex flex-wrap justify-center lg:justify-end gap-4 text-xs text-primary-foreground/60">
               <button className="hover:text-primary-foreground transition-colors">

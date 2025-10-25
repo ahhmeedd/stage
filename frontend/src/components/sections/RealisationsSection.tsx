@@ -44,7 +44,7 @@ export function RealisationsSection() {
     {
       id: 4,
       title: 'Villas Marina Gammarth',
-      description: 'Installation de systèmes de désenfumage et détection incendie pour plusieurs villas haut de gamme.',
+      description: 'Installation de systèmes de climatisation et plomberie sanitaire',
       category: 'Sécurité incendie',
       location: 'Gammarth',
       date: '2024-2025',
