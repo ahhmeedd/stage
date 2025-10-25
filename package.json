@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/ahhmeedd/stage.git",
-  "author": "Ahhmed Ben Mansour <ahhmedbenmansour@gmail.com>",
+  "author": "Ahhmed Ben Mansour <benmansourahhmed@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "nodemailer": "^7.0.10"
