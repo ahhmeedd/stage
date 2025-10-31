@@ -1,12 +1,12 @@
 import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Calendar, MapPin } from 'lucide-react';
-import realisation1 from '@/assets/realisation-1.jpg';
+import realisation1 from '@/assets/realisation-1.jpeg';
 import realisation2 from '@/assets/realisation-2.jpg';
 import realisation3 from '@/assets/realisation-3.jpg';
-import realisation4 from '@/assets/realisation-4.jpg';
-import realisation5 from '@/assets/realisation-5.jpg';
-import realisation6 from '@/assets/realisation-6.jpg';
+import realisation4 from '@/assets/realisation-4.jpeg';
+import realisation5 from '@/assets/realisation-5.jpeg';
+import realisation6 from '@/assets/realisation-6.jpeg';
 
 export function RealisationsSection() {
   // Projets exemple - en production, ces données viendraient de Firebase
